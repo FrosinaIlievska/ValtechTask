@@ -34,7 +34,8 @@ function Main() {
                 <section id="section1">
                     <div className="background">
                         <div className="transbox">
-                            <a href="/#" className="sec1-link">
+                                                  {/* USING HEX CODE FOR EACH CHARACTER */}
+              <a className="sec1-link" href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#107;&#46;&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;&#118;&#97;&#108;&#116;&#101;&#99;&#104;&#46;&#99;&#111;&#109;">
                                 <button className="sec1-button">CONTACT</button>
                             </a>
                             <p className="trasnsbox-text">Lorem ipsum dolor sit amet, consectetur</p>
